@@ -1,0 +1,5 @@
+img{
+    -webkit-box-reflect: 0px linear-gradient(transparent, transparent 60%, rgba(0, 0, 0, 0.1)); 
+    -ms-content-zoom-limit: inherit ;
+    
+}

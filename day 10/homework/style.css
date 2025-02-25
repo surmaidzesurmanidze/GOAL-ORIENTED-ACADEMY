@@ -1,0 +1,22 @@
+p{
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
+    font-size: 25px;
+    
+}
+ 
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+
+}
+
+i{
+    font-size: 30px;
+}
+
+body{
+    position: relative;
+    left: 700px;
+}

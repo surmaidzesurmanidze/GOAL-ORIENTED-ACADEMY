@@ -1,0 +1,42 @@
+:root {
+    --h1collor: black;
+    --h1fontsize: 1.5em;
+    --h1fontfamyly: crusive;
+    --h1letterspacing: 5px;
+    --h1display: margin;
+    --h1flx: flex;
+    --h1padding: 30px;
+    --h1transform: rotate(90deg);
+    --h1posistion: rlative;
+    --h1transition: 0.5s;
+    --h1padding: 15px;
+    --h1margin: 50px;
+    
+
+
+
+    --btnBackcollor: chocolate;
+    --btnpadding: - 31px;
+    --btncolor: yellow;
+
+    --pcolor: blue;
+    --pfontsize: 2em;
+    --pfontfamilt: monospace;
+
+
+
+}
+
+
+ h1 {
+    color: var(--h1collor);
+    background-color: var(--h1background-color);
+    font-size: var(--h1fontsize);
+    letter-spacing: var(--h1letterspacing);
+    display: var(--h1display);
+    flex: var(--h1flx);
+    padding: var(--h1padding);
+
+
+
+ }

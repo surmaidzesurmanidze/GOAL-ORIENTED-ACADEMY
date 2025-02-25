@@ -1,0 +1,15 @@
+header{
+    text-align: center;
+    
+}
+h1{
+  position: fixed;left: 100px;
+}
+
+body{
+    background-color:rgb(219,225,227) ;
+
+}
+div{
+    position: relative; left: 100px;
+}
